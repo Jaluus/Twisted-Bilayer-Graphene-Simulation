@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.73333 67.733335"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="favicon.ico"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="TBGLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.6204615"
+     inkscape:cx="476.71603"
+     inkscape:cy="206.42267"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458332"
+       spacingy="0.26458334"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-opacity:1"
+       id="rect1"
+       width="287.07294"
+       height="67.73333"
+       x="0"
+       y="0"
+       ry="5.291667"
+       rx="5.2916675"
+       inkscape:export-filename="TBGSim_Logo_Text.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g3"
+       transform="matrix(0.43765915,0,0,0.43765915,4.7517217,3.8725095)"
+       style="stroke-width:2.28488;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       inkscape:export-filename="TBGSim_White.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:6.04542;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="path1"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="66.145828"
+         sodipodi:cy="67.46875"
+         sodipodi:r1="64.822922"
+         sodipodi:r2="56.13829"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.0943951"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 66.14583,132.29167 10.007532,99.880212 10.00753,35.057291 66.145827,2.6458282 122.28412,35.057288 l 1e-5,64.822921 z"
+         transform="translate(1.5875051,0.26458333)" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:6.04542;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="path2"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="67.73333"
+         sodipodi:cy="67.73333"
+         sodipodi:r1="59.089813"
+         sodipodi:r2="51.173283"
+         sodipodi:arg1="-0.71251162"
+         sodipodi:arg2="-0.18891285"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 112.44791,29.104166 123.54446,87.142711 78.829876,125.77187 23.018749,106.36249 11.922202,48.323949 56.636783,9.694785 Z" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:6.04542;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+         id="path3"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="67.73333"
+         sodipodi:cy="67.73333"
+         sodipodi:r1="51.184227"
+         sodipodi:r2="44.326839"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 118.91756,67.73333 -25.592117,44.32684 -51.184227,0 -25.592113,-44.32684 25.592113,-44.326841 51.184227,0 z" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5778px;line-height:1;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:2.64583"
+       x="67.46875"
+       y="29.104168"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.64583"
+         x="67.46875"
+         y="29.104168">Twisted Bilayer</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:2.64583"
+         x="67.46875"
+         y="52.092678"
+         id="tspan2">Graphene Simulation</tspan></text>
+  </g>
+</svg>
